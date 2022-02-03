@@ -41,45 +41,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="css" width="40" height="40"/> 
-</a><a>
+</a><a>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="HandleBars" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-</a><a>   
+</a><a>     
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="Jquery" width="40" height="40" />
- </a><a>   
+ </a><a>     
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-</a><a>    
+</a><a>      
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node js" width="40" height="40" />
-</a><a>
+</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="40" height="40" />
-</a><a>    
+</a><a>     
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40" />
-</a><a>    
+</a><a>      
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-</a><a>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" />
- </a><a>   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="40" height="40" />
- </a><a>   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="40" height="40" />
- </a><a>   
+</a><a>     
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /> 
      </p></a>
 <br>
 
