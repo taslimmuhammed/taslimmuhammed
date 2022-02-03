@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/taslimmuhammed/taslimmuhammed/blob/ts1.gif" alt="taslimmuhammed" /></p>
+<p><img align="right" src="https://github.com/taslimmuhammed/taslimmuhammed/ts1.gif" alt="taslimmuhammed" /></p>
 
 
 - 🌱 I’m currently learning  Node JS
