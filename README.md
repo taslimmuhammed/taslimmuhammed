@@ -80,9 +80,8 @@
     <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="Next JS" width="40" height="40" /> 
      </a>
     <a>     
-    <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="40" height="40" /> 
+    <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="30" height="40" /> 
      </a>
-    
     </p>
 <br>
 
