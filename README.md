@@ -80,7 +80,7 @@
     <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="Next JS" width="40" height="40" /> 
      </a>
     <a>     
-    <img src="https://w7.pngwing.com/pngs/97/789/png-transparent-ethereum-cryptocurrency-computer-icons-blockchain-initial-coin-offering-token-coin.png" alt="Solidity" width="40" height="40" /> 
+    <img src="https://solidity-fr.readthedocs.io/fr/latest/_images/logo.svg" alt="Solidity" width="40" height="40" /> 
      </a>
     
     </p>
