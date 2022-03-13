@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/taslimmuhammed/taslimmuhammed/blob/main/ts1.gif" alt="taslimmuhammed" /></p>
 
 
-- 🌱 I’m currently learning  Node JS
+- 🌱 Full Stack developer currently learning Web 3.0
 
 - 📫 How to reach me **taslimmuhammed67@gmail.com**
 
@@ -75,7 +75,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </a><a>     
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /> 
-     </p></a>
+     </a>
+     <a>     
+    <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="Next JS" width="40" height="40" /> 
+     </a>
+    <a>     
+    <img src="https://w7.pngwing.com/pngs/97/789/png-transparent-ethereum-cryptocurrency-computer-icons-blockchain-initial-coin-offering-token-coin.png" alt="Solidity" width="40" height="40" /> 
+     </a>
+    
+    </p>
 <br>
 
 <h3>Statistical Data :-</h3>
