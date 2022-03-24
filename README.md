@@ -44,13 +44,9 @@
 </a><a>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
 </a><a>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
-</a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40" />
 </a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" />
-</a><a>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
 </a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
 </a><a>  
@@ -69,8 +65,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node js" width="40" height="40" />
 </a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="40" height="40" />
-</a><a>     
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40" />
 </a><a>      
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </a><a>     
@@ -81,6 +75,12 @@
      </a>
     <a>     
     <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="30" height="40" /> 
+     </a>
+    <a>     
+    <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="40" height="40" alt = "hardhat" /> 
+     </a>
+    <a>     
+    <img src="https://pbs.twimg.com/media/DTwk5S9W4AE5aA7.jpg" width="40" height="40"  alt="web3"/> 
      </a>
     </p>
 <br>
