@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taslim Muhammed Moosa</h1>
-<h3 align="center">Student at GEC, Thrissur🌟.</h3>
+<h3 align="center">Ethereum / Web3 FreeLancer🌟.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/taslimmuhammed/taslimmuhammed/blob/main/ts1.gif" alt="taslimmuhammed" /></p>
 
 
-- 🌱 Full Stack developer currently learning Web 3.0
+- 🌱previuosly Full Stack developer now freelancing in Web 3.0
 
 - 📫 How to reach me **taslimmuhammed67@gmail.com**
 
