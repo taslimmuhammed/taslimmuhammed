@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/taslimmuhammed/taslimmuhammed/blob/main/ts1.gif" alt="taslimmuhammed" /></p>
 
 
-- 🌱previuosly Full Stack developer now freelancing in Web 3.0
+- 🌱previuosly Web3 freelancer currenlty learning Go
 
 - 📫 How to reach me **taslimmuhammed67@gmail.com**
 
@@ -39,7 +39,10 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a>
+<p align="left">
+<a>
+    <img src="https://srinathh.github.io/assets/images/generic/Go-Logo_Blue.png"alt="css" width="40" height="40"/> 
+</a><a>  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="css" width="40" height="40"/> 
 </a><a>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
