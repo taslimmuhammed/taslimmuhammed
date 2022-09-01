@@ -9,8 +9,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/taslimmuhammed/taslimmuhammed/blob/main/ts1.gif" alt="taslimmuhammed" /></p>
-
 
 - 🌱previuosly Web3 freelancer currenlty learning Go
 
