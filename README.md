@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact :- food is the reason to live.
 
+- 📚 Pro Stacks :- MERN stack, Web3[Ethereum], Go Lang
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
