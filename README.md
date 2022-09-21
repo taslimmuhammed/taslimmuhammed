@@ -42,9 +42,29 @@
 <p align="left">
 <a>
     <img src="https://srinathh.github.io/assets/images/generic/Go-Logo_Blue.png"alt="css" width="40" height="40"/> 
-</a><a>  <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="css" width="40" height="40"/> 
+    </a>
+    <a>     
+    <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="Next JS" width="40" height="40" /> 
+     </a>
+    <a>     
+    <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="30" height="40" /> 
+     </a>
+    <a>     
+    <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="40" height="40" alt = "hardhat" /> 
+     </a>
+    <a>     
+    <img src="https://pbs.twimg.com/media/DTwk5S9W4AE5aA7.jpg" width="40" height="40"  alt="web3"/> 
+     </a>
+    <a>  
+        <a>      
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node js" width="40" height="40" />
 </a><a>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="40" height="40" />
+</a><a>      
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+</a><a>     
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /> 
+     </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
 </a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40" />
@@ -64,27 +84,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="Jquery" width="40" height="40" />
  </a><a>     
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-</a><a>      
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node js" width="40" height="40" />
-</a><a>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="40" height="40" />
-</a><a>      
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-</a><a>     
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /> 
-     </a>
-     <a>     
-    <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="Next JS" width="40" height="40" /> 
-     </a>
-    <a>     
-    <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="30" height="40" /> 
-     </a>
-    <a>     
-    <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="40" height="40" alt = "hardhat" /> 
-     </a>
-    <a>     
-    <img src="https://pbs.twimg.com/media/DTwk5S9W4AE5aA7.jpg" width="40" height="40"  alt="web3"/> 
-     </a>
+</a>
+<a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="css" width="40" height="40"/> 
+</a>
     </p>
 <br>
 
