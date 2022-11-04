@@ -81,6 +81,8 @@
 </a><a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </a><a>     
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg](https://cdn-icons-png.flaticon.com/512/919/919832.png)" alt="TypeScript" width="40" height="40" />
+</a><a>     
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
 </a>
     </p>
