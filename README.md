@@ -12,6 +12,8 @@
 
 - 🌱previuosly Web3 freelancer currenlty learning Go
 
+- ⚡ Have Build 15+ dapps so far.
+
 - 📫 How to reach me **taslimmuhammed67@gmail.com**
 
 - ⚡ Fun fact :- food is the reason to live.
