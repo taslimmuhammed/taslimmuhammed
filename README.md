@@ -43,10 +43,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a>
-    <img src="[https://srinathh.github.io/assets/images/generic/Go-Logo_Blue.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png)" alt="GraphQL" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40"/> 
     </a>
 <a>
-    <img src="[https://srinathh.github.io/assets/images/generic/Go-Logo_Blue.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png)"alt="css" width="120" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go Lang" width="120" height="40"/> 
     </a>
     <a>     
     <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="Next JS" width="40" height="40" /> 
