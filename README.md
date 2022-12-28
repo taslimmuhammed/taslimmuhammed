@@ -10,7 +10,7 @@
 <br>
 
 
-- 🌱previuosly Web3 freelancer currenlty learning Go
+- 🌱previuosly Web3 freelancer currenlty learning Rust.
 
 - ⚡ Have Build 15+ dapps so far.
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact :- food is the reason to live.
 
-- 📚 Pro Stacks :- MERN stack, Web3[Ethereum], Go Lang
+- 📚 Pro Stacks :- MERN, Web3, Go Lang, Rust.
 
 <br>
 
