@@ -43,7 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a>
-    <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_.jpg" alt="Rust" width="60" height="40"/> 
+    <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_.jpg" alt="Rust" width="100" height="40"/> 
     </a>
     <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go Lang" width="120" height="40"/> 
