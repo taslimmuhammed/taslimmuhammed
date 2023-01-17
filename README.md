@@ -97,7 +97,8 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taslimmuhammed&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taslimmuhammed&hide=css,html"
+    alt="taslimmuhammed" /></p>
 
 <br>
 
