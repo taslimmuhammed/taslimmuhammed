@@ -98,7 +98,7 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimmuhammed&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimmuhammed&show_icons=true&locale=en&layout=compact&hide=html,css"
     alt="taslimmuhammed" /></p>
 
 <br>
