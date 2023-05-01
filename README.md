@@ -12,7 +12,7 @@
 
 - 🌱previuosly Web3 freelancer currenlty learning Rust.
 
-- ⚡ Have Build 15+ dapps so far.
+- ⚡ Have Build 20+ dapps so far.
 
 - 📫 How to reach me **taslimmuhammed67@gmail.com**
 
