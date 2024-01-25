@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taslim Muhammed Moosa</h1>
-<h3 align="center">Web3 FreeLancer/Go-Lang/Rust Dev🌟.</h3>
+<h3 align="center">Web3 FreeLancer/Go-Lang/Rust Dev/Learning ML|DL🌟.</h3>
 
 <br>
 
