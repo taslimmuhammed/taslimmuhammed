@@ -10,7 +10,7 @@
 <br>
 
 
-- 🌱previuosly Web3 freelancer currenlty learning Rust.
+- 🌱previuosly Web/web3 dev currently learning ML.
 
 - ⚡ Have Build 20+ dapps so far.
 
