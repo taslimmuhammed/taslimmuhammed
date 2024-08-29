@@ -20,6 +20,8 @@
 
 - 📚 Pro Stacks :- MERN, Web3, Go Lang, Rust.
 
+- 🌐 visit https://taslim.vercel.app/ for more info.
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
