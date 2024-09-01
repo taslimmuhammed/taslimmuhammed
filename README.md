@@ -20,7 +20,7 @@
 
 - 📚 Pro Stacks :- MERN, Web3, Go Lang, Rust.
 
-- 🌐 visit https://taslim.vercel.app/ for more info.
+- 🌐 visit https://www.taslim.live/ for more info.
 
 <br>
 
