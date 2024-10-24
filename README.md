@@ -9,14 +9,13 @@
 
 <br>
 
-
+- ⚡ Contributer to @gragraphprotocol.
+  
 - 🌱previuosly Web/web3 dev currently learning ML.
 
 - ⚡ Have Build 20+ dapps so far.
 
 - 📫 How to reach me **taslimmuhammed67@gmail.com**
-
-- ⚡ Fun fact :- food is the reason to live.
 
 - 📚 Pro Stacks :- MERN, Web3, Go Lang, Rust.
 
